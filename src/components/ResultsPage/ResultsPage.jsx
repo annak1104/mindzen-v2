@@ -31,8 +31,11 @@ const ResultsPage = ({ answers }) => {
       <div className="max-w-lg w-full flex flex-col gap-6">
         {/* Meditation Suggestion */}
         <div className="bg-teal-500 text-white p-6 rounded-lg shadow-md">
-          <h2 className="text-xl font-bold">Meditation Suggestion 🧘‍♀️</h2>
-          <p>Start with a 5-minute daily guided meditation.</p>
+          <h2 className="text-xl font-bold">Grounding techniques 🧘‍♀️</h2>
+          <p>
+            Pause and reconnect with the present using a quick grounding
+            technique.
+          </p>
         </div>
 
         {/* Mindfulness Tip */}
